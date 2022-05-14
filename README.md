@@ -1,2 +1,2 @@
-# AetiosLabs.github.io
-Splash page for Aetios Labs.
+# pareto-xyz.github.io
+Splash page for Pareto Labs.
